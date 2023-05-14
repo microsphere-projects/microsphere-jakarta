@@ -1,2 +1,2 @@
 # microsphere-jakarta
-The microsphere project as the implementation of jakarta
+The microsphere project as the implementation of Jakarta
